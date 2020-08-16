@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Vikash - aka [DVdroid] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](<a href="https://twitter.com/DVDroid?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DVDroid</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DVDroid?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ## I'm a iOS Developer, and a cricket fan!
 
