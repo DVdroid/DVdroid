@@ -30,10 +30,10 @@
 [<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg" />]
 [<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/pycharm.svg" />]
 
-
 <br />
 <br />
 
+---
 
 ### 📕 Latest Blog Posts
 
