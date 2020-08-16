@@ -51,11 +51,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#10](https://github.com//jamesgeorge007/github-activity-readme/issues/10) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#1748](https://github.com//webpack/webpack-cli/issues/1748) in [webpack/webpack-cli](https://github.com//webpack/webpack-cli)
+1. undefined
+2. undefined
+3. undefined
+4. undefined
+5. undefined
 <!--END_SECTION:activity-->
 
 ---
