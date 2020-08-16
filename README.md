@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking for iOS freelacing work
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love bike rides, cats.
+- ⚡ Fun fact: I love bike rides and cats.
 
 
 ### Connect with me:
