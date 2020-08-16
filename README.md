@@ -48,6 +48,13 @@
 
 ---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ![DVdroid's github stats](https://github-readme-stats.dvdroid.vercel.app/api?username=DVdroid&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.dvdroid.vercel.app/api/top-langs/?username=DVdroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
