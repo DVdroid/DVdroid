@@ -53,6 +53,9 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [twitter]: https://twitter.com/DVDroid
 [instagram]: https://www.instagram.com/me_vikashanand/
 [linkedin]: https://www.linkedin.com/in/vikash-anand-299bb765/
