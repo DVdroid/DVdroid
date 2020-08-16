@@ -48,9 +48,9 @@
 
 ---
 
-![DVdroid's github stats](github-readme-stats.dvdroid.vercel.app/api?username=DVdroid&show_icons=true)
+![DVdroid's github stats](https://github-readme-stats.dvdroid.vercel.app/api?username=DVdroid&show_icons=true)
 
-[![Top Langs](github-readme-stats.dvdroid.vercel.app/api/top-langs/?username=DVdroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.dvdroid.vercel.app/api/top-langs/?username=DVdroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/DVDroid
