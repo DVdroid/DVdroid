@@ -38,17 +38,19 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ios - storage best practices](https://medium.com/@anandin02/ios-storage-best-practices-294fca83ad9)
-- [Embracing dark mode ios 13](https://medium.com/@anandin02/embracing-dark-mode-ios-13-29b29d55122b)
+- [Separation of concerns using — Enums](https://medium.com/@anandin02/separation-of-concerns-using-enums-55c0e45948fc?source=rss-1b20a0632a72------2)
+- [Diffable Data Sources](https://medium.com/@anandin02/diffable-data-sources-2e08aa271fc0?source=rss-1b20a0632a72------2)
+- [Adding compile time safety to code](https://medium.com/@anandin02/adding-compile-time-safety-to-code-cde5005a79cc?source=rss-1b20a0632a72------2)
+- [Loading Custom Views in iOS, The right way](https://medium.com/@anandin02/loading-custom-views-in-ios-the-right-way-bedfc06a4fbd?source=rss-1b20a0632a72------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/me/stories/public)
 
 ---
 
-![DVdroid's github stats](https://github-readme-stats.vercel.app/api?username=DVdroid&show_icons=true)
+![DVdroid's github stats](https://github-readme-stats.dvdroid.vercel.app/api?username=DVdroid&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DVdroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.dvdroid.vercel.app/api/top-langs/?username=DVdroid&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/DVDroid
