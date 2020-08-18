@@ -55,18 +55,6 @@
 
 ---
 
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
-<!--END_SECTION:activity-->
-
----
-
 [twitter]: https://twitter.com/DVDroid
 [instagram]: https://www.instagram.com/me_vikashanand/
 [linkedin]: https://www.linkedin.com/in/vikash-anand-299bb765/
