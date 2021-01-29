@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on a iOS project!
 - 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking for iOS freelacing work
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking for iOS freelancing work
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love bike rides and cats.
 
 
